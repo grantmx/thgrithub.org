@@ -12,7 +12,7 @@ export default function Home(){
 	return(
 		<>
 			<NextSeo 
-				title="GRIT Hub"
+				title="The Grit Foundation, Inc. | GRIT Hub"
 				description="Your future starts here! GRIT Hub is here to incubate innovation and entrepreneurship in the digital economy"
 				canonical="https://grithub.org.za/"
 			/>
@@ -362,7 +362,7 @@ export default function Home(){
 				<div className="col-12 col-md-7 d-flex flex-wrap">
 					<div className="col-md-6 col-12 d-flex p-4 flex-column justify-content-start">
 						<Image src="/assets/grithub-logo-horz-dark.svg" width={300} height={100} alt="GRITHub Logo"/>
-						<small className="mt-2 text-muted">The Grit Foundation, INC. is a Non-Profit company catalyzing innovation and technology in the digital economy through our system of GRIT Hubs.</small>
+						<small className="mt-2 text-muted">The Grit Foundation, Inc. is a Non-Profit company catalyzing innovation and technology in the digital economy through our system of GRIT Hubs.</small>
 					</div>
 
 					<div className="col-md-6 col-12 p-4 d-flex justify-content-center align-items-center flex-column">
