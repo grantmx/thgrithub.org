@@ -1,0 +1,22 @@
+{
+  "name": "grithub",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start"
+  },
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta1",
+    "form-serialize": "^0.7.2",
+    "jsonp": "^0.2.1",
+    "next": "^11.1.2",
+    "next-seo": "^4.19.0",
+    "query-string": "^6.14.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-helmet": "^6.1.0",
+    "sass": "^1.32.6"
+  }
+}
