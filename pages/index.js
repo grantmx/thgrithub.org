@@ -91,9 +91,9 @@ export default function Home(){
 
 
 				<section className="container-xxl col-12 d-flex justify-content-center align-items-center p-5 flex-column" id="about">
-					<h1 className="fw-bold display-4 mb-4 text-center">GRIT Hub</h1>
+					<h1 className="fw-bold display-4 mb-4 text-center">The Grit Foundation, Inc. Hub</h1>
 					<div className="text-center col-xl-10 col-12">
-						<p className="lead">We are a Non-Profit Company with a mission to be a catalyst for providing training, programming and mentoring services in the business ecosystem.</p>
+						<p className="lead">We are a Non-Profit Company with a mission to be a catalyst for providing training, programming and mentoring services in the business ecosystem through our systems of Grit Hubs.</p>
 						<p className="lead">Our duty is to empower community members and small businesses to actively participate in the local supply chain through collaborations with academia, business and government partners using modern technology and innovation.</p>
 					</div>
 				</section>
